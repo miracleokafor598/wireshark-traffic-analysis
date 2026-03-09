@@ -1,5 +1,4 @@
 # wireshark-traffic-analysis
-Network traffic capture and DNS analysis using Wireshark in Kali Linux
 
 Overview:
 This project demonstrates how to capture and analyze network traffic using wireshark in a Kali Linux virtual machine.

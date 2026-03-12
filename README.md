@@ -4,9 +4,9 @@ Overview:
 This project demonstrates how to capture and analyze network traffic using wireshark in a Kali Linux virtual machine.
 
 Tools Used:
--Kali Linux 
--Wireshark
--VirtualBox
+ - Kali Linux 
+ - Wireshark
+ - VirtualBox
 
 Steps Performed:
  -Started packet Capture on interface eth0
